@@ -14,5 +14,6 @@
 
 ## Cheatsheet Cheats
 
+partial fractions table
 wk 1 - Statespace Method - pg 9
 wk 2 - Solving Homogeneous State Equations - pg 2
