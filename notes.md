@@ -12,3 +12,5 @@
 
 6. CLTF $ = \dfrac{C(s)}{R(s)} =\dfrac{G(s)}{1+G(s)H(s)} $
 
+## Cheatsheet Cheats
+wk 1 - statespace method - pg 9
