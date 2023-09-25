@@ -17,3 +17,16 @@
 partial fractions table
 wk 1 - Statespace Method - pg 9
 wk 2 - Solving Homogeneous State Equations - pg 2
+
+## IMPORTANT
+
+wk 2 - Computing Matrix Exponentials - pg 6  
+wk 3 - Pole placement controller design - pg 2  
+
+## Random notes
+
+### wk 3 - controlability and observability  
+
+state at time  $ 0 \neq 0 $  
+For controlability, is A and B  
+For observability, is A and C
